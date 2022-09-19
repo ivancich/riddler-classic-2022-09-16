@@ -1,0 +1,15 @@
+This code helps to solve the FiveThirtyEight class puzzle given on
+September 16, 2022.
+
+See:
+    https://fivethirtyeight.com/features/can-you-build-the-biggest-anigram/
+
+It involves anigrams, which is a playful variation of anagrams. In the
+standard game you start off with a 4-letter word that you have to
+identify from re-arranged letters. And then a new letter is added for
+each round until you end up with a 9-letter word.
+
+The number of final letters can be provided as a command-line
+argument, otherwise the default of 9 will be used.
+
+Author: J. Eric Ivancich
